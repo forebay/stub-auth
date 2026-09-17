@@ -8,7 +8,7 @@
   "author": "intisy",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/intisy-ai/stub-auth.git"
+    "url": "git+https://github.com/forebay/stub-auth.git"
   },
   "keywords": [
     "basekit",
